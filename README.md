@@ -21,4 +21,10 @@ Linguagem usada?
 
 -Python.
 
+Ferramentas usadas?
+
+-Visual Code
+
+-Python
+
 OBS: Esta calculadora foi efectuada de um exercício de prática nos meus estudos de python.
