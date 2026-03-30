@@ -3,7 +3,7 @@ Este Projecto é uma calculadora de números inteiros básica.
 
 Objectivo?
 
--Somar os números inteiros dados.
+-calcular os números inteiros fornecidos.
 
 Como faz?
 
@@ -15,7 +15,7 @@ Como faz?
 
 -Reconhece como númeração;
 
--Soma as 2 string dadas;
+-Soma, calcula, multiplica ou subtrai as 2 string dadas;
 
 Linguagem usada?
 
